@@ -1,1 +1,3 @@
-pip install streamlit cadquery numpy-stl
+streamlit 
+cadquery 
+numpy-stl
