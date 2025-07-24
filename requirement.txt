@@ -1,0 +1,4 @@
+pip install 
+streamlit 
+cadquery 
+numpy-stl
