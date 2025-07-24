@@ -1,3 +1,2 @@
 streamlit
 cadquery
-numpy-stl
